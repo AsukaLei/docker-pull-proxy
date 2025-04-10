@@ -1,4 +1,4 @@
-langgenius/dify-api:latest crpi-tf9cct5mbwn1yert.cn-hangzhou.personal.cr.aliyuncs.com/podman-dify/dify-api:0.6.11
+langgenius/dify-api crpi-tf9cct5mbwn1yert.cn-hangzhou.personal.cr.aliyuncs.com/podman-dify/dify-api:0.6.11
 
 langgenius/dify-web:latest crpi-tf9cct5mbwn1yert.cn-hangzhou.personal.cr.aliyuncs.com/podman-dify/dify-web:0.6.11
 
